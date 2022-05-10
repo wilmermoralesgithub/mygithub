@@ -1,1 +1,2 @@
 hello git!
+text for new change on the creation of the new branch named branchb
